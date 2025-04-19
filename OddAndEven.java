@@ -15,7 +15,7 @@ public class OddAndEven {
        List<Integer> square= ls.stream().map(e->e*e).collect(Collectors.toList());
        System.out.println(even);
        System.out.println(square);
-       System.out.println(odd.);
+       System.out.println(odd);
 	}
 
 }
